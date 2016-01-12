@@ -1,0 +1,4 @@
+templateScript: /mitt-telia/templates/components/test.ftl
+renderType: freemarker
+dialog: hello-magnolia:components/test
+title: Test

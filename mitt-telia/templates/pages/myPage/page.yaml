@@ -1,0 +1,6 @@
+class: com.example.magnolia.templates.CustomTemplateDefinition
+renderType: freemarker
+templateScript: /example-project/templates/pages/defaultTemplate.ftl
+title: Default template
+visible: true     
+bodyClass: default-layout
